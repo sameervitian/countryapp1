@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= title
+  each x,y in codes
+   div(style='display:inline-block;padding:10px 10px 10px 10px')
+      a(href='/country/#{y}')
+        img(src='images/#{y}.png', title='#{x}')
+
