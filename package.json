@@ -1,6 +1,6 @@
 {
   "name": "CountryApp",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "node.js app meant to demonstrate functionality of node.js + express.js + jade + request module",
   "author": "Sameer Akhtar <sameervitian2006@gmail.com>",
   "private": true,
